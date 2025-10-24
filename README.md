@@ -16,7 +16,7 @@
 
 ## 2) 스타트업 회사 웹페이지
 - FE 구현(Vite/React) · 반응형
-- 포인트: 제품/기능 강조, 가벼운 애니메이션, 채용 섹션
+- 포인트: 제품/기능 강조, 가벼운 애니메이션, 소개 섹션
 
 <p align="center">
   <img src="assets/readme/2.png" alt="스타트업 홈" width="960">
